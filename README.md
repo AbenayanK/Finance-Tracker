@@ -35,5 +35,3 @@ Use python3 on macOS if that’s how Python is installed. A graphical Linux sess
 Settings shows the path to the active ledger. ClearFlow saves changes to ledger.json and keeps one previous version in ledger.previous.json. **Restore previous version** lets you roll back. If the active file is unreadable, the recovery screen lets you restore a backup. ClearFlow archives the original bytes when you confirm the restore. Use **Export JSON Backup** to keep an independent copy. The ledger files are unencrypted JSON.
 
 ClearFlow.html can also run in a browser. Browser data depends on the URL or origin, so export from the original app before moving or replacing the HTML file.
-
-Interface redesign uses Unslop by Damir Sokolovsky (@heydamir), CC BY 4.0.
