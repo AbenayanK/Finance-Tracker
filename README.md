@@ -2,6 +2,11 @@
 
 ClearFlow opens in its own window and works offline using the operating system’s webview. It starts with an empty ledger.
 
+## Downloads
+
+- [ClearFlow Desktop ZIP](downloads/ClearFlow-Desktop.zip) for Windows and macOS with Python.
+- [ClearFlow 3.0.1 Debian package](downloads/clearflow-finance_3.0.1_all.deb) for Debian 13.
+
 ## Debian 13
 
 Install the package with your package installer or run:
